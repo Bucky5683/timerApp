@@ -81,9 +81,11 @@
                                     <constraint firstItem="WIq-Jv-FJr" firstAttribute="leading" secondItem="kTq-5l-wRN" secondAttribute="leading" id="BHo-QG-DFm"/>
                                     <constraint firstItem="fjQ-bv-2KL" firstAttribute="centerX" secondItem="kTq-5l-wRN" secondAttribute="centerX" id="I2S-FG-geM"/>
                                     <constraint firstItem="eov-MT-Y40" firstAttribute="leading" secondItem="5r9-Uc-Kd2" secondAttribute="leading" id="IeF-f4-nAY"/>
+                                    <constraint firstItem="1kZ-BE-jA4" firstAttribute="trailing" secondItem="fjQ-bv-2KL" secondAttribute="trailing" id="Kdr-8W-bmH"/>
                                     <constraint firstItem="5r9-Uc-Kd2" firstAttribute="trailing" secondItem="WIq-Jv-FJr" secondAttribute="trailing" id="SBU-pr-PiZ"/>
                                     <constraint firstItem="eov-MT-Y40" firstAttribute="trailing" secondItem="5r9-Uc-Kd2" secondAttribute="trailing" id="e59-2v-5qI"/>
                                     <constraint firstAttribute="trailing" secondItem="WIq-Jv-FJr" secondAttribute="trailing" id="lgD-KF-8B9"/>
+                                    <constraint firstItem="1kZ-BE-jA4" firstAttribute="leading" secondItem="fjQ-bv-2KL" secondAttribute="leading" id="rrh-3f-Ueb"/>
                                 </constraints>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="wON-uh-GzG">
